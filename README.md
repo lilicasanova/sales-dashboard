@@ -14,6 +14,8 @@ El panel se compone de cuatro pestañas en total:
 
 La primera tabla tiene más detalle, mientras que las siguientes son más breves por el dato tan limitado que tenemos. 
 
+### :tv: Preview
+![preview](sales-dash.gif)
 
 ## :wrench: Built With
 
